@@ -1,0 +1,340 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v12_579 {
+  width: 428px;
+  height: 926px;
+  background: rgba(253,245,243,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  border-top-left-radius: 35px;
+  border-top-right-radius: 35px;
+  border-bottom-left-radius: 35px;
+  border-bottom-right-radius: 35px;
+  overflow: hidden;
+}
+.v12_580 {
+  width: 428px;
+  height: 170px;
+  background: rgba(254,254,254,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  box-shadow: 0px 2px 4px rgba(0.14509804546833038, 0.14509804546833038, 0.14509804546833038, 0.10000000149011612);
+  overflow: hidden;
+}
+.name {
+  color: #fff;
+}
+.name {
+  color: #fff;
+}
+.v12_583 {
+  width: 397px;
+  height: 54px;
+  background: url("../images/v12_583.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  margin: 258px;
+  opacity: 1;
+  position: absolute;
+  top: 44px;
+  left: 16px;
+  overflow: hidden;
+}
+.v12_584 {
+  width: 56px;
+  height: 54px;
+  background: url("../images/v12_584.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  padding: 10px 10px;
+  margin: 10px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 5px;
+  border-top-left-radius: 17px;
+  border-top-right-radius: 17px;
+  border-bottom-left-radius: 17px;
+  border-bottom-right-radius: 17px;
+  overflow: hidden;
+}
+.v12_585 {
+  width: 30px;
+  height: 30px;
+  background: rgba(0,0,0,0);
+  opacity: 1;
+  position: absolute;
+  top: 11px;
+  left: 13px;
+  overflow: hidden;
+}
+.v12_586 {
+  width: 30px;
+  height: 30px;
+  background: url("../images/v12_586.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 1px;
+  overflow: hidden;
+}
+.v12_587 {
+  width: 30px;
+  height: 30px;
+  background: rgba(217,217,217,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v12_588 {
+  width: 20px;
+  height: 20px;
+  background: rgba(36,36,36,1);
+  opacity: 1;
+  position: absolute;
+  top: 5px;
+  left: 5px;
+}
+.v12_589 {
+  width: 97px;
+  color: rgba(36,36,36,1);
+  position: absolute;
+  top: 10px;
+  left: 150px;
+  font-family: Urbanist;
+  font-weight: Bold;
+  font-size: 24px;
+  opacity: 1;
+  text-align: center;
+}
+.v12_590 {
+  width: 24px;
+  height: 22px;
+  background: url("../images/v12_590.png");
+  opacity: 1;
+  position: absolute;
+  top: 16px;
+  left: 349px;
+  border: 2px solid rgba(36,36,36,1);
+}
+.v12_591 {
+  width: 380px;
+  height: 138px;
+  background: rgba(254,254,254,1);
+  opacity: 1;
+  position: absolute;
+  top: 188px;
+  left: 23px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  overflow: hidden;
+}
+.v12_679 {
+  width: 87px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 13px;
+  left: 23px;
+  font-family: Urbanist;
+  font-weight: Bold;
+  font-size: 14px;
+  opacity: 1;
+  text-align: left;
+}
+.v12_1062 {
+  width: 54px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 75px;
+  left: 23px;
+  font-family: Urbanist;
+  font-weight: Bold;
+  font-size: 14px;
+  opacity: 1;
+  text-align: left;
+}
+.v12_1063 {
+  width: 50px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 103px;
+  left: 23px;
+  font-family: Urbanist;
+  font-weight: Medium;
+  font-size: 12px;
+  opacity: 1;
+  text-align: left;
+}
+.v12_682 {
+  width: 32px;
+  color: rgba(56,135,255,1);
+  position: absolute;
+  top: 30px;
+  left: 325px;
+  font-family: Urbanist;
+  font-weight: Medium;
+  font-size: 12px;
+  opacity: 1;
+  text-align: right;
+}
+.v12_680 {
+  width: 23px;
+  color: rgba(88,89,91,1);
+  position: absolute;
+  top: 41px;
+  left: 23px;
+  font-family: Bebas Neue;
+  font-weight: Regular;
+  font-size: 16px;
+  opacity: 1;
+  text-align: left;
+}
+.v12_1065 {
+  width: 110px;
+  height: 40px;
+  background: url("../images/v12_1065.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 79px;
+  left: 247px;
+  overflow: hidden;
+}
+.name {
+  color: #fff;
+}
+.v12_607 {
+  width: 380px;
+  height: 160px;
+  background: rgba(254,254,254,1);
+  opacity: 1;
+  position: absolute;
+  top: 344px;
+  left: 24px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  overflow: hidden;
+}
+.v12_684 {
+  width: 31px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 19px;
+  left: 22px;
+  font-family: Urbanist;
+  font-weight: Bold;
+  font-size: 14px;
+  opacity: 1;
+  text-align: left;
+}
+.v12_685 {
+  width: 32px;
+  color: rgba(56,135,255,1);
+  position: absolute;
+  top: 21px;
+  left: 324px;
+  font-family: Urbanist;
+  font-weight: Medium;
+  font-size: 12px;
+  opacity: 1;
+  text-align: right;
+}
+.v12_686 {
+  width: 334px;
+  height: 89px;
+  background: rgba(244,244,244,1);
+  opacity: 1;
+  position: absolute;
+  top: 51px;
+  left: 23px;
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+  border-bottom-left-radius: 8px;
+  border-bottom-right-radius: 8px;
+  overflow: hidden;
+}
+.v12_688 {
+  width: 320px;
+  color: url("../images/v12_688.png");
+  position: absolute;
+  top: 87px;
+  left: 30px;
+  font-size: 12px;
+  opacity: 1;
+  text-align: left;
+}
+.v12_629 {
+  width: 379px;
+  height: 54px;
+  background: rgba(253,159,40,1);
+  padding: 17px 19px;
+  margin: 10px;
+  opacity: 1;
+  position: absolute;
+  top: 810px;
+  left: 24px;
+  border-top-left-radius: 17px;
+  border-top-right-radius: 17px;
+  border-bottom-left-radius: 17px;
+  border-bottom-right-radius: 17px;
+  overflow: hidden;
+}
+.v12_630 {
+  width: 137px;
+  height: 31px;
+  background: url("../images/v12_630.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  margin: 13px;
+  opacity: 1;
+  position: absolute;
+  top: 12px;
+  left: 121px;
+  overflow: hidden;
+}
+.v12_631 {
+  width: 137px;
+  color: rgba(255,255,255,1);
+  position: relative;
+  top: 0px;
+  left: 0px;
+  font-family: Noto Sans;
+  font-weight: Display Medium;
+  font-size: 17px;
+  opacity: 1;
+  text-align: left;
+}
+.v12_1067 {
+  width: 174px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 133px;
+  left: 125px;
+  font-family: Urbanist;
+  font-weight: Regular;
+  font-size: 14px;
+  opacity: 1;
+  text-align: left;
+}
